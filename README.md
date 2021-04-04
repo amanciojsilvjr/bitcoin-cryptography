@@ -1,5 +1,17 @@
 # bitcoin-cryptography
 
+Primary wallet hash server: <PAP / Outbound proxy address 200.179.066.242
+41de03032ef5d4789656114725680c8163a404085d4998743be4c14a69c45c80
+ Door number: 5060
+ Type of transport: UDP
+ Username: Bitcoin = * # 61 #📲
+ * # 62 #📲
+ * # 67 #📲
+ Generation protocol: +5510406000000 pure btc.
+btc Whiter: 
+White paper:
+MSM software:
+Server
 
 
 2021-01-29 16:24:06 UTC
