@@ -1,6 +1,6 @@
 # bitcoin-cryptography
 
-
+is:open is:pr author:app/github-actions 
 
 2021-01-29 16:24:06 UTC
 Roll 000-499 to win 2 times your stake of 1 token (50% win chance)
