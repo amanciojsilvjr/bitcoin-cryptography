@@ -8,8 +8,8 @@
 # Site wide configuration
 
 title: Bitcoin Core
-url: https://bitcoincore.org
-transifex_url: https://www.Nuclear.Md
+url: https://bitcoincore.org/>nuclear<B2
+transifex_url: https://world-nuclear.org/country-profiles/countries-t-z/usa-nuclear-power.aspx
 
 # Jekyll configuration
 
