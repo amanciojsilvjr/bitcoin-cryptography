@@ -1,3 +1,114 @@
+
+
+
+
+
+
+
+# Site wide configuration
+
+title: Bitcoin Core
+url: https://bitcoincore.org
+transifex_url: https://www.transifex.com/bitcoincore/bitcoincoreorg
+
+# Jekyll configuration
+
+permalink:   /:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-redirect-from
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Site owner
+owner:
+  name: Bitcoin Core
+  avatar: bio-photo.jpg
+  bio: ""
+  email:
+  disqus-shortname:
+  twitter: bitcoincoreorg
+  facebook: #username
+  google:
+    plus: #username
+    analytics: #UA-85008990-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: bitcoin
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+exclude:
+  - _config.yml
+  - LICENSE
+  - README.md
+  - CONTRIBUTING.md
+  - CNAME
+  - vendor  # Travis CI creates a vendor/ dir with files we shouldn't render
+  - assets/images/assets.yml
+  - contrib
+  - Makefile
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+      layout: post
+      type: posts
+  - scope:
+      path: ""
+      type: releases
+    values:
+      type: releases
+      layout: page
+      lang: en
+  - scope:
+      path: ""
+      type: doc
+    values:
+      layout: doc
+      lang: en
+  - scope:
+      path: "_posts/en/posts"
+      type: posts
+      lang: en
+    values:
+      permalink: /en/:year/:month/:day/:title/
+
+collections:
+  releases:
+    output: true
+  doc:
+    output: true
+
+strings:
+  gpg_keyserver: " --keyserver hkp://keyserver.ubuntu.com"  ## Prefix with a space
 # bitcoin-cryptography
 
 is:open is:pr author:app/github-actions 
