@@ -8,8 +8,12 @@
 # Site wide configuration
 
 title: Bitcoin Core
-url: https://bitcoincore.org/ HTTPS://nuclear.profiles.com><DNS_PROBE_FINISHED_NXDOMAIN <B2
-transifex_url: https://world-nuclear.org/nuclear/
+url: https://bitcoincore.org/nuclear.profiles.com%3E.
+DNS_PROBE_FINISHED_NXDOMAIN 
+HTTPS://nuclear.profiles.com><DNS_PROBE_FINISHED_NXDOMAIN <B2
+transifex_url:nuclear.profiles.com%3E.
+DNS_PROBE_FINISHED_NXDOMAIN 
+https://world-nuclear.org/nuclear/
 
 # Jekyll configuration
 
