@@ -9,7 +9,7 @@
 
 title: Bitcoin Core
 url: https://bitcoincore.org
-transifex_url: https://www.transifex.com/bitcoincore/bitcoincoreorg
+transifex_url: https://www.transifex.com/cód/?Nuclear
 
 # Jekyll configuration
 
@@ -46,7 +46,7 @@ owner:
     ad-slot:
   bing-verify:
   github: bitcoin
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/username" link
   linkedin: #username
   xing: #username
   instagram: #username
