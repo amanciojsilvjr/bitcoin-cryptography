@@ -13,9 +13,9 @@ DNS_PROBE_FINISHED_NXDOMAIN
 HTTPS://nuclear.profiles.com><DNS_PROBE_FINISHED_NXDOMAIN <B2
 transifex_url:nuclear.profiles.com%3E.
 DNS_PROBE_FINISHED_NXDOMAIN 
-https://world-nuclear.org/nuclear/
+https://https://world-nuclear.org/gallery.aspx
 
-# Jekyll configuration
+# Amanciojsilvjr><cod-nuclear configuration
 
 permalink:   /:title/
 markdown:    kramdown
@@ -24,7 +24,7 @@ sass:
   sass_dir: _sass
   style: compressed
 plugins:
-  - jekyll-redirect-from
+  -https://world-nuclear.org/gallery.aspx -redirect-from
 
 kramdown:
   auto_ids: true
@@ -53,14 +53,14 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: #amanciojsilvjr
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: #amanciojsilvjr
   soundcloud: #username
   weibo: #username
   flickr: #username
