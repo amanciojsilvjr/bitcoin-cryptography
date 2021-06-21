@@ -9,7 +9,7 @@
 
 title: Bitcoin Core
 url: https://bitcoincore.org
-transifex_url: https://www.Nuclear.
+transifex_url: https://www.Nuclear.Md
 
 # Jekyll configuration
 
