@@ -1,4 +1,16 @@
-	Endereço IP	Perto	Atual	 
+	Endereço IP	 
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: @PACKAGE_NAME@ consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: @CryptoGraphyBTC2021@
+Libs: -L${libdir} -lbitcoinconsensus
+Cflags: -I${includedir}
+Perto	Atual	https://mail.google.com/mail/mu/mp/216/#cv/priority/%5Esmartlabel_personal/17a5b88ed01ab45a
+ https://www.coinbase.com/settings/account_activity?page=2/2804:214:82ac:15b3:9367:3457:a302:5b75
 Há 5 meses	Chrome (Linux)	2804:214:82b2:e67b:9f52:669d:e350:3379	Brazil, São Paulo		
 Há 7 meses	Chrome (Linux)	2804:214:8122:182d:2791:c0bb:7275:b0de	Brazil, São Paulo		
 Há 11 meses	Chrome (Linux)	2804:214:82b1:85d2:d6b3:7dc0:79e9:e1f7	Brazil, São Paulo		
