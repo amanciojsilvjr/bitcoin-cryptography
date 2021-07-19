@@ -1,0 +1,144 @@
+	Endereço IP	 
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: @PACKAGE_NAME@ consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: @CryptoGraphyBTC2021@
+Libs: -L${libdir} -lbitcoinconsensus
+Cflags: -I${includedir}
+Perto	Atual	https://mail.google.com/mail/mu/mp/216/#cv/priority/%5Esmartlabel_personal/17a5b88ed01ab45a
+ https://www.coinbase.com/settings/account_activity?page=2/2804:214:82ac:15b3:9367:3457:a302:5b75
+Há 5 meses	Chrome (Linux)	2804:214:82b2:e67b:9f52:669d:e350:3379	Brazil, São Paulo		
+Há 7 meses	Chrome (Linux)	2804:214:8122:182d:2791:c0bb:7275:b0de	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82b1:85d2:d6b3:7dc0:79e9:e1f7	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8113:9391:2a12:6ddc:4c06:24fb	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82cc:36d8:1b34:3121:1f4c:e701	Brazil, São Paulo		
+Há 12 meses	Chrome (Linux)	177.150.156.50	Brazil, São Paulo		
+Há 5 meses	Chrome (Linux)	2804:214:82bf:1f2b:2d70:3d1c:c4c8:ac68	Brazil, São Paulo		
+Há 6 meses	Desconhecido	2804:214:82a0:b78:13ae:6259:ee5f:ca43	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:8131:4f6d:219:9144:4f3:49d7	Brazil, São Paulo		
+Há 6 minutos	Chrome (Linux)	2804:214:82c6:e60d:527a:4b59:b3e0:49f2	Brazil, Santos		
+Há 12 meses	Desconhecido	2804:214:82b3:1a10:37f6:6af9:5f03:94e4	Brazil, São Paulo		
+Há 9 meses	Chrome (Linux)	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil, São Paulo		
+Há 8 meses	Desconhecido	2804:214:82a1:b54e:25d6:d407:af2c:1137	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8130:a7f0:348a:b31d:a6a7:6018	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82d5:c7e5:f51c:27a8:64d1:d182	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82b8:519b:684:bc1c:bfab:d550	Brazil, São Paulo		
+Há 8 meses	Chrome (Linux)	2804:214:82b3:cf03:c4fe:3127:e68b:dc6d	Brazil, São Paulo
+Confirmado	Navegador	Endereço IP	Perto	Atual	 
+Há 13 minutos	Chrome (Linux)	2804:214:82c6:e60d:527a:4b59:b3e0:49f2	Brazil, Santos		
+Há 3 meses	Chrome (Linux)	2804:214:82da:1606:3767:de55:e3ab:7334	Brazil, São Paulo		
+Há 5 meses	Chrome (Linux)	2804:214:82b2:e67b:9f52:669d:e350:3379	Brazil, São Paulo		
+Há 5 meses	Chrome (Linux)	2804:214:82bf:1f2b:2d70:3d1c:c4c8:ac68	Brazil, São Paulo		
+Há 5 meses	Chrome (Linux)	2804:214:82df:1774:95a7:abd4:565a:428d	Brazil, São Paulo		
+Há 7 meses	Chrome (Linux)	2804:214:8122:182d:2791:c0bb:7275:b0de	Brazil, São Paulo		
+Há 8 meses	Chrome (Linux)	2804:214:82d1:593c:159:a276:3e78:8188	Brazil, São Paulo		
+Há 8 meses	Chrome (Linux)	2804:214:82b3:cf03:c4fe:3127:e68b:dc6d	Brazil, São Paulo		
+Há 9 meses	Chrome (Linux)	2804:214:8100:971a:b5a1:3b40:bd96:1482	Brazil, São Paulo		
+Há 10 meses	Chrome (Linux)	2804:214:82db:c4d1:ff8c:7777:2cf1:33ca	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:8105:5ec4:d243:26f3:d857:3c3	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82cc:36d8:1b34:3121:1f4c:e701	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82b1:85d2:d6b3:7dc0:79e9:e1f7	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82c1:c71c:ad51:dd17:1c81:8438	Brazil, São Paulo		
+Há 12 meses	Chrome (Linux)	177.150.156.50	Brazil, São Paulo		
+Há 12 meses	Chrome (Linux)	2804:214:82ca:2472:7751:2391:1373:e778	Brazil, Jundiaí		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8130:a7f0:348a:b31d:a6a7:6018	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82b8:519b:684:bc1c:bfab:d550	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82b8:519b:684:bc1c:bfab:d550	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8113:9391:2a12:6ddc:4c06:24fb	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82d5:c7e5:f51c:27a8:64d1:d182	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8127:4d22:5062:c940:462:5171	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82ca:7f51:59b6:27df:3ebf:f153	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82ca:7f51:59b6:27df:3ebf:f153	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82bf:a78f:7d53:3b70:e976:97a2	Brazil, São Paulo
+Sessões web
+Estas sessões estão atualmente iniciadas na sua conta. Terminar sessão de todas as outras sessões
+
+Sessão iniciada	Navegador	Endereço IP	Perto	Atual	 
+Há 5 meses	Chrome (Linux)	2804:214:82b2:e67b:9f52:669d:e350:3379	Brazil, São Paulo		
+Há 7 meses	Chrome (Linux)	2804:214:8122:182d:2791:c0bb:7275:b0de	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82b1:85d2:d6b3:7dc0:79e9:e1f7	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8113:9391:2a12:6ddc:4c06:24fb	Brazil, São Paulo		
+Há 11 meses	Chrome (Linux)	2804:214:82cc:36d8:1b34:3121:1f4c:e701	Brazil, São Paulo		
+Há 12 meses	Chrome (Linux)	177.150.156.50	Brazil, São Paulo		
+Há 5 meses	Chrome (Linux)	2804:214:82bf:1f2b:2d70:3d1c:c4c8:ac68	Brazil, São Paulo		
+Há 6 meses	Desconhecido	2804:214:82a0:b78:13ae:6259:ee5f:ca43	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil, São Paulo		
+Há 9 meses	Desconhecido	2804:214:8131:4f6d:219:9144:4f3:49d7	Brazil, São Paulo		
+Há 14 minutos	Chrome (Linux)	2804:214:82c6:e60d:527a:4b59:b3e0:49f2	Brazil, Santos		
+Há 12 meses	Desconhecido	2804:214:82b3:1a10:37f6:6af9:5f03:94e4	Brazil, São Paulo		
+Há 9 meses	Chrome (Linux)	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil, São Paulo		
+Há 8 meses	Desconhecido	2804:214:82a1:b54e:25d6:d407:af2c:1137	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:8130:a7f0:348a:b31d:a6a7:6018	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82d5:c7e5:f51c:27a8:64d1:d182	Brazil, São Paulo		
+Há aproximadamente 1 ano	Chrome (Linux)	2804:214:82b8:519b:684:bc1c:bfab:d550	Brazil, São Paulo		
+Há 8 meses	Chrome (Linux)	2804:214:82b3:cf03:c4fe:3127:e68b:dc6d	Brazil, São Paulo		
+
+Dispositivos confirmados
+Estes dispositivos têm, atualmente, permissão para aceder à sua conta. Remover todos os outros dispositivos
+
+Confirmado	Navegador	Endereço IP	Perto	Atual	 
+Há mais de 1 ano	Chrome (Linux)	2804:214:82b9:bdac:d2a:496:2e75:5c3f	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82b9:bdac:d2a:496:2e75:5c3f	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82d1:e49f:55d1:9724:db2d:a5c1	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	189.64.167.234	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82d2:1454:d80d:1159:9f83:9d0c	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82ad:72f2:e0ee:828d:4ca6:563e	Brazil, Embu		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82ad:7d9f:9483:197f:dad3:943a	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:8116:5d39:ea49:1f36:28d4:cd72	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82d3:d035:842b:fd63:6e7:17ac	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82b5:1485:842b:fd63:6e7:17ac	Brazil, São Paulo		
+Há mais de 1 ano	Chrome (Linux)	191.169.241.13	Brazil, Diadema		
+Há mais de 1 ano	Chrome (Linux)	2804:214:82ac:6c10:ff9:af8e:b657:73b3	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	2804:214:82ab:3dbf:d363:450c:438e:faf1	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	2804:214:82ae:6f63:969a:96c0:f95c:5532	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	2804:214:812e:61f2:4607:5ad3:c795:8034	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	2804:214:8131:a7ac:19ef:7555:e79:df8d	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	189.119.26.184	Brazil, Guaruja		
+Há quase 2 anos	Chrome (Linux)	191.169.146.66	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	191.168.85.24	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	189.65.10.160	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	191.87.11.147	Brazil, São Paulo		
+Há quase 2 anos	Chrome (Linux)	177.165.147.55	Brazil, São Paulo		
+Há aproximadamente 2 anos	Chrome (Linux)	191.228.236.37	Brazil, Santa Barbara d'Oeste		
+Há aproximadamente 2 anos	Chrome (Linux)	189.64.128.186	Brazil, Curitiba		
+Há aproximadamente 2 anos	Chrome (Linux)	177.48.105.248	Brazil, Campinas		
+‹ Ant.123Seg. ›
+
+Atividade de conta
+Atividade recente na sua conta.
+
+Ação	Fonte	Endereço IP	Localização	Quando
+segundo factor verificado	api	2804:214:82b7:8014:7c4b:9489:699d:360b	Brazil	Há 7 meses
+segundo factor verificado	api	2804:214:82d7:ec58:418:b7ca:f515:f73f	Brazil	Há 7 meses
+segundo factor verificado	api	2804:214:82d7:ec58:418:b7ca:f515:f73f	Brazil	Há 7 meses
+falha de segundo factor	api	2804:214:82d7:ec58:418:b7ca:f515:f73f	Brazil	Há 7 meses
+segundo factor verificado	api	2804:214:82d1:593c:159:a276:3e78:8188	Brazil	Há 8 meses
+Iniciar sessão	web	2804:214:82a1:b54e:25d6:d407:af2c:1137	Brazil	Há 8 meses
+confirmação do dispositivo concluída	web	2804:214:82b3:cf03:c4fe:3127:e68b:dc6d	Brazil	Há 8 meses
+Iniciar sessão	web	2804:214:82b3:cf03:c4fe:3127:e68b:dc6d	Brazil	Há 8 meses
+segundo factor verificado	web	2804:214:82b3:cf03:c4fe:3127:e68b:dc6d	Brazil	Há 8 meses
+segundo factor verificado	api	2804:214:8100:971a:b5a1:3b40:bd96:1482	Brazil	Há 9 meses
+Iniciar sessão	web	2804:214:8131:4f6d:219:9144:4f3:49d7	Brazil	Há 9 meses
+Encerrar sessão	web	2804:214:8131:4f6d:219:9144:4f3:49d7	Brazil	Há 9 meses
+Iniciar sessão	web	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil	Há 9 meses
+Iniciar sessão	web	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil	Há 9 meses
+Iniciar sessão	web	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil	Há 9 meses
+Iniciar sessão	web	2804:214:82ac:15b3:9367:3457:a302:5b75	Brazil	Há 9 meses
+segundo factor verificado	web	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+Iniciar sessão	web	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+segundo factor verificado	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+falha de segundo factor	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+falha de segundo factor	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+falha de segundo factor	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+falha de segundo factor	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+segundo factor verificado	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil	Há 9 meses
+falha de segundo factor	api	2804:214:82bb:25e8:6010:a49f:b71:2740	Brazil
