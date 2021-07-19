@@ -5,3 +5,17 @@ Amanciojsilvjr<google.com/
 Ed.ed.79*#67#btc 
 https://%btc.or>gte</Unless otherwise stated in a file or the directory containing a file,
 the MIT license applies to all files
+
+pragma solidity 0.6.6;
+
+contract HelloWorld {
+    string public message;
+
+    constructor(string memory initialMessage) {
+        message = initialMessage;
+    }
+
+    function updateMessage(string memory newMessage) public {
+        message = newMessage;
+    }
+}
