@@ -1,6 +1,9 @@
 
 
 
+<<<< amanciojsilvjr-patch-2
+2021-01-29 16:24:06
+=======
 
 
 
@@ -118,6 +121,7 @@ strings:
 is:open is:pr author:app/github-actions 
 
 2021-01-29 16:24:06 UTC
+ main
 Roll 000-499 to win 2 times your stake of 1 token (50% win chance)
 You rolled 26 so you won 2 tokens
 Client seed 1b08b782
@@ -230,4 +234,4 @@ You rolled 737 so you did not win
 Client seed ae29d1e3
 Server seed 60ed5ce28bb78f366bead03e2690553e
 Server seed hash 13d77242c5abc82c40fb067712bad8d47cba67b06f23d096930bc4e34bf9cba6
-© 2017-2019 CoinPot | Contact | Terms | Privacy
+2017-2019 
