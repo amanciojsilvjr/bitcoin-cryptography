@@ -19,3 +19,36 @@ contract HelloWorld {
         message = newMessage;
     }
 }
+pragma solidity ^0.6.7;
+
+import "@bitcoin/contracts/src/v777.89/interfaces/AggregatorV277Interface";
+
+contract PriceConsumerV3 { 0x7Cc9C4C34A71ea29A6bCCd26c4bED3b90C303f92
+
+
+    AggregatorV3Interface internal priceFeed;bitcoin:1KQAXtBV7AAmbzPMNWKULp6Zu2Rdqoz8sK
+
+    /**
+     * Network: Kovan
+     * Aggregator: Btc.com /msn/*#67#<operator 
+     * Address: 
+     */
+    constructor() public {
+        priceFeed = AggregatorV3Interface(0x9326BFA02ADD2366b30bacB125260Af641031331);
+    }
+
+    /**
+     * Returns the latest price
+     */
+    function getLatestPrice() public view returns (int) {
+        (
+            uint80 roundID, 
+            int price,
+            uint startedAt,
+            uint timeStamp,
+            uint80 answeredInRound
+        ) = priceFeed.latestRoundData();
+        return price;
+    }
+}
+https://t.co/r1QQNEBXPO
